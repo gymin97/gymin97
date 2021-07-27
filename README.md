@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am interested in CV and medical AI.
+📫 How to reach me: gtmin97@gmail.com // rudals2901@naver.com
+🌱 My portfolio is here 👉 https://gymin97.notion.site/71824b68c3cb4fa297d66ae7971e226c 
+But, It's not completed.. T.T Hold on a minute, please! 😅
 <!--
 **gymin97/gymin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
