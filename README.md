@@ -2,7 +2,7 @@
 
 I am interested in Computer Vision and Bigdata analysis.        
 📫 How to reach me: gtmin97@gmail.com // rudals2901@naver.com              
-🌱 My portfolio is here 👉 [Click!](https://gymin97.notion.site/71824b68c3cb4fa297d66ae7971e226c "Portfolio in Notion")                  
+🌱 My portfolio is in here 👉 [Click!](https://gymin97.notion.site/71824b68c3cb4fa297d66ae7971e226c "Portfolio in Notion")                  
 
 <!--
 **gymin97/gymin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
