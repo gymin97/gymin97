@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I am interested in Computer Vision and Bigdata analysis.        
-📫 How to reach me: gymin97@gmail.com // rudals2901@naver.com              
-🌱 My portfolio is in here 👉 [Click!](https://gymin97.notion.site/71824b68c3cb4fa297d66ae7971e226c "Portfolio in Notion")                  
+📫 How to reach me: gymin97@gmail.com // rudals2901@naver.com                            
 
 <!--
 **gymin97/gymin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 🌱 My portfolio is in here 👉 [Click!](https://gymin97.notion.site/71824b68c3cb4fa297d66ae7971e226c "Portfolio in Notion")    
