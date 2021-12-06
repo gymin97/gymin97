@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b00ff&height=200&section=header&text=Gyeongmin Kim &fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b00ff&height=150&section=header&text=GyeongminKim &fontSize=70" />
 </p>
 
 ## ✨  ABOUT ME ✨
