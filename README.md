@@ -2,36 +2,34 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b00ff&height=150&section=header&text=GyeongminKim &fontSize=70" />
 </p>
 
-## ✨  ABOUT ME ✨
+## 👀 ABOUT ME
 
 <br/>
 
-- 👩🏻‍💻 I'm interested in Computer Vision and Bigdata analysis.        
-- 📫 How to reach me: gymin97@gmail.com 
+- I'm interested in Cloud Infra         
+- How to reach me: 📫 gymin97@gmail.com ✏[Tistory](https://gammistory.tistory.com/)
 
 <br/>
 
 
-## ⚒  SKILLS ⚒
+## 🧿 SKILLS 
 
 <p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>    
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Keras-%23D42029.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>    
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   
-<br/>
-<img src="https://img.shields.io/badge/mysql-%233B4D98.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-<br/>
-<!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
-<!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> -->
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 </p>
 <br/>
 
-## ⚡️ Language ⚡️
+## 💻 Language 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gymin97&layout=compact)](https://github.com/gymin97)
 
