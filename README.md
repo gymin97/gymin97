@@ -6,7 +6,7 @@
 
 <br/>
 
-- I'm interested in Cloud Infra         
+- I'm interested in Cloud Infra Engineer         
 - How to reach me: 📫 gymin97@gmail.com ✏[Tistory](https://gammistory.tistory.com/)
 
 <br/>
