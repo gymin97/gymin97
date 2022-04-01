@@ -34,8 +34,8 @@
 <br/>
 
 ## 💻 Language 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gymin97&layout=compact)](https://github.com/gymin97)
+![github stats](https://github-readme-stats.vercel.app/api?username=gymin97&show_icons=true)
 
 <br/>
 
