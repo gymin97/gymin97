@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b00ff&height=150&section=header&text=GyeongminKim &fontSize=70" />
 </p>
 
-## 👀 ABOUT ME
-
 <br/>
 
 - I'm interested in Cloud Infra Engineer         
