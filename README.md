@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8b00ff&height=150&section=header&text=GyeongminKim &fontSize=70" />
-</p>
+<h2 align="center">I'm GyeongMin 😃 </h2>
 
 <br/>
 
